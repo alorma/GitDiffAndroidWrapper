@@ -1,4 +1,4 @@
-package com.alorma.diff.lib;
+package com.alorma.diff;
 
 import android.annotation.TargetApi;
 import android.content.Context;
